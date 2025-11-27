@@ -50,7 +50,6 @@ export default function Navbar() {
       label: "Applications",
       icon: <FiFileText />,
     },
-    { href: "/candidate/vapi", label: "Vapi Test", icon: <FiEdit /> },
   ];
 
   const employerLinks = [
